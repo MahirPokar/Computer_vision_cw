@@ -1,0 +1,8 @@
+data/cifar-10-python.tar.gz
+*.npy
+*.tar.gz
+*.npy
+cifar-10-batches-py
+data
+__pycache__
+COMP61352 Coursework_2025.pdf
