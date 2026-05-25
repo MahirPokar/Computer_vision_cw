@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Local-only archived material
+archive/
+
+# Data and generated experiment artifacts
+data/
+dataset/
+datasets/
+datatset/
+Dataset/
+outputs/
+results/
+models/
+cache/
+experiments/
+debug_outputs/
+occlusion_debug/
+studies/
+
+# Large model / array / cache artifacts
+*.pth
+*.pt
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.sav
+*.mat
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
